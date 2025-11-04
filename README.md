@@ -22,3 +22,35 @@ Enhancing my automation expertise with **Java**, **Selenium**, and **REST Assure
 
 ## 🌱 I'm Currently Learning  
 Exploring **GitHub Actions** to integrate automation testing into **CI/CD pipelines** for continuous and efficient delivery.
+
+---
+
+## 💼 Technical Skills
+
+<p align="center">
+  <!-- Core Programming & Frameworks -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-%231572B6.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  
+  <!-- Automation Tools -->
+  <img src="https://img.shields.io/badge/Selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20Assured-%2300C7B7.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  
+  <!-- Manual & API Testing -->
+  <img src="https://img.shields.io/badge/Manual%20Testing-%234285F4.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-%23FF8C00.svg?style=for-the-badge&logoColor=white" />
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <!-- Defect Tracking & Collaboration -->
+  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" />
+  
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
