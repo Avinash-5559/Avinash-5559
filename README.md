@@ -2,25 +2,25 @@
 
 [![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=810&lines=I'm+Avinash++Sinha;And%2C+I'm+Software+Development+Engineer+in+Test+(SDET)+💻)](https://Avinash-5559.me)
 
-## 🙋‍♂️ About Me 
+## 🙋‍♂️ About Me  
+**Software Development Engineer in Test (SDET)** with over **3 years of experience** in ensuring software quality through **manual, functional, and API testing**.  
 
-**Software Development Engineer in Test (SDET)** with over **3 years of experience** in ensuring software quality through **manual, functional, and API testing**. 
+Over time, my passion for improving test efficiency and accuracy has led me to **transition into automation testing**.  
 
-Over time, my passion for improving test efficiency and accuracy has led me to **transition into automation testing**. 
+I’m now focused on developing strong skills in **Java, Selenium, TestNG, and REST Assured** to build scalable and reusable automation frameworks for UI and API validation.  
 
-I’m now focused on developing strong skills in **Java, Selenium, TestNG, and REST Assured** to build scalable and reusable automation frameworks for UI and API validation.
-
-My hands-on experience in **Postman** and **MySQL** helps me ensure data consistency and seamless API functionality. 
+My hands-on experience in **Postman** and **MySQL** helps me ensure data consistency and seamless API functionality.  
 
 I believe quality assurance goes beyond finding bugs — it’s about driving reliability, fostering collaboration, and continuously improving with every release.
 
 ---
+
 ## 🔧 Polishing My Skills  
 Enhancing my automation expertise with **Java**, **Selenium**, and **REST Assured** to build robust and reusable testing frameworks.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning  
 Exploring **GitHub Actions** to integrate automation testing into **CI/CD pipelines** for continuous and efficient delivery.
 
 ---
@@ -63,8 +63,9 @@ You can explore all my repositories and ongoing automation projects here:
 
 ---
 
-## 📊 Most Used Languages   
+## 📊 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-5559&layout=compact&theme=default&langs_count=6" alt="Avinash's Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-5559&layout=compact&theme=default&langs_count=6&cache_seconds=1800" alt="Avinash's Top Languages" />
 </p>
