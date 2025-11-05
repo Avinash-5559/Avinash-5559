@@ -2,7 +2,7 @@
 
 [![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=810&lines=I'm+Avinash++Sinha;And%2C+I'm+Software+Development+Engineer+in+Test+(SDET)+💻)](https://Avinash-5559.me)
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me 
 
 **Software Development Engineer in Test (SDET)** with over **3 years of experience** in ensuring software quality through **manual, functional, and API testing**. 
 
@@ -15,17 +15,17 @@ My hands-on experience in **Postman** and **MySQL** helps me ensure data consist
 I believe quality assurance goes beyond finding bugs — it’s about driving reliability, fostering collaboration, and continuously improving with every release.
 
 ---
-## 🛠️ I'm Polishing My Skills In  
+## 🔧 Polishing My Skills  
 Enhancing my automation expertise with **Java**, **Selenium**, and **REST Assured** to build robust and reusable testing frameworks.
 
 ---
 
-## 🌱 I'm Currently Learning  
+## 🌱 Currently Learning
 Exploring **GitHub Actions** to integrate automation testing into **CI/CD pipelines** for continuous and efficient delivery.
 
 ---
 
-## 💼 Technical Skills
+## 💼 Technical Skills  
 
 <p align="center">
   <!-- Core Programming & Frameworks -->
@@ -53,4 +53,18 @@ Exploring **GitHub Actions** to integrate automation testing into **CI/CD pipeli
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🧩 My Projects  
+You can explore all my repositories and ongoing automation projects here:  
+➡️ [**GitHub Profile — Avinash Sinha**](https://github.com/Avinash-5559?tab=repositories)
+
+---
+
+## 📊 Most Used Languages   
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-5559&layout=compact&theme=default&langs_count=6" alt="Avinash's Top Languages" />
 </p>
