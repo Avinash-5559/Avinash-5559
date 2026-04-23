@@ -15,7 +15,11 @@ I focus on writing clean, reusable automation code and continuously improving my
 ---
 
 ## 🔧 Polishing My Skills  
-Enhancing my automation expertise with **Java**, **Selenium**, and **REST Assured** to build robust and reusable testing frameworks.
+
+- Strengthening **automation framework design** using Selenium + TestNG (POM)
+- Improving **API automation practices** with REST Assured
+- Writing **clean, reusable, and maintainable test scripts**
+- Enhancing **test coverage and execution efficiency**
 
 ---
 
