@@ -24,7 +24,10 @@ I focus on writing clean, reusable automation code and continuously improving my
 ---
 
 ## 🌱 Currently Learning  
-Exploring **GitHub Actions** to integrate automation testing into **CI/CD pipelines** for continuous and efficient delivery.
+
+- Exploring **CI/CD concepts for automation testing**
+- Understanding how to integrate automation with pipelines (basic level)
+- Improving **advanced Java concepts for automation**
 
 ---
 
