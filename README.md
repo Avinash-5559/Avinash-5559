@@ -3,15 +3,14 @@
 [![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=810&lines=I'm+Avinash++Sinha;And%2C+I'm+Software+Development+Engineer+in+Test+(SDET)+💻)](https://Avinash-5559.me)
 
 ## 🙋‍♂️ About Me  
-**Software Development Engineer in Test (SDET)** with over **3 years of experience** in ensuring software quality through **manual, functional, and API testing**.  
 
-Over time, my passion for improving test efficiency and accuracy has led me to **transition into automation testing**.  
+**Software Development Engineer in Test (SDET)** with **4+ years of experience** in **manual testing, automation testing (Selenium with Java), and API testing (REST Assured, Postman)**.
 
-I’m now focused on developing strong skills in **Java, Selenium, TestNG, and REST Assured** to build scalable and reusable automation frameworks for UI and API validation.  
+I have hands-on experience in **functional and regression testing, API validation, and defect management** within Agile environments. I’ve worked on improving testing efficiency by developing automation scripts and supporting stable software releases.
 
-My hands-on experience in **Postman** and **MySQL** helps me ensure data consistency and seamless API functionality.  
+Alongside my professional experience, I actively build **automation frameworks using Selenium WebDriver with TestNG**, applying the **Page Object Model (POM)** to create scalable, maintainable test solutions. I also develop **API automation frameworks using REST Assured** for validating RESTful services.
 
-I believe quality assurance goes beyond finding bugs — it’s about driving reliability, fostering collaboration, and continuously improving with every release.
+I focus on writing clean, reusable automation code and continuously improving my testing approach to ensure high-quality software delivery.
 
 ---
 
