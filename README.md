@@ -76,6 +76,7 @@ I focus on writing clean, reusable automation code and continuously improving my
 ---
 
 ## 🧩 My Projects  
+
 You can explore all my repositories and ongoing automation projects here:  
 ➡️ [**GitHub Profile — Avinash Sinha**](https://github.com/Avinash-5559?tab=repositories)
 
@@ -86,4 +87,5 @@ You can explore all my repositories and ongoing automation projects here:
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-5559&layout=compact&theme=default&langs_count=6&cache_seconds=21600" alt="Avinash's Top Languages" />
+  
 </p>
