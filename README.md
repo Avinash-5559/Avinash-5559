@@ -36,27 +36,27 @@ I focus on writing clean, reusable automation code and continuously improving my
 <p align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
   <!-- Automation -->
-  <img src="https://img.shields.io/badge/Selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/TestNG-%238E44AD.svg?style=for-the-badge&logoColor=white" />
 
   <!-- API Testing -->
-  <img src="https://img.shields.io/badge/REST%20Assured-%2300C7B7.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20Assured-%2300BFA6.svg?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 
   <!-- Manual Testing -->
-  <img src="https://img.shields.io/badge/Functional%20Testing-%234285F4.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Regression%20Testing-%236A5ACD.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Smoke%20Testing-%23FF8C00.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sanity%20Testing-%23DC143C.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional%20Testing-%231ABC9C.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression%20Testing-%236C5CE7.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smoke%20Testing-%23F39C12.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sanity%20Testing-%23D63031.svg?style=for-the-badge" />
 
   <!-- Framework -->
-  <img src="https://img.shields.io/badge/Page%20Object%20Model%20(POM)-%23007ACC.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-%230098D4.svg?style=for-the-badge" />
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <!-- Build & Tools -->
+  <img src="https://img.shields.io/badge/Maven-%238B0000.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
@@ -65,11 +65,11 @@ I focus on writing clean, reusable automation code and continuously improving my
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
   <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- Methodology -->
+  <!-- Methodologies -->
   <img src="https://img.shields.io/badge/Agile-%2300C853.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scrum-%23FFCA28.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-%23FFC107.svg?style=for-the-badge&logoColor=black" />
 
 </p>
 
